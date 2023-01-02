@@ -1,0 +1,47 @@
+package kr.co.ch02;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("stv")
+public class SamsungTV implements TV{
+
+	@Autowired
+	private Speaker speaker;
+	
+	@Override
+	public void powerOn() {
+		System.out.println("Samsung TV power On");
+	}
+
+	@Override
+	public void powerOff() {
+		System.out.println("Samsung TV power Off");
+		
+	}
+
+	@Override
+	public void chUp() {
+		System.out.println("Samsung TV Ch Up");
+		
+	}
+
+	@Override
+	public void chDown() {
+		System.out.println("Samsung TV Ch Down");
+		
+	}
+
+	@Override
+	public void soundUp() {
+		speaker.soundUp();
+		
+	}
+
+	@Override
+	public void soundDown() {
+		speaker.soundDown();
+		
+	}
+
+}

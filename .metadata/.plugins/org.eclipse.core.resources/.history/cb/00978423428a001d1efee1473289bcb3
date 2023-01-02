@@ -1,0 +1,41 @@
+package kr.co.ch02;
+
+public class LgTV implements TV{
+
+	@Override
+	public void powerOn() {
+		System.out.println("LG TV power On");
+	}
+
+	@Override
+	public void powerOff() {
+		System.out.println("LG TV power Off");
+		
+	}
+
+	@Override
+	public void chUp() {
+		System.out.println("LG TV Ch Up");
+		
+	}
+
+	@Override
+	public void chDown() {
+		System.out.println("LG TV Ch Down");
+		
+	}
+
+	@Override
+	public void soundUp() {
+		System.out.println("LG TV Sound Up");
+		
+	}
+
+	@Override
+	public void soundDown() {
+		System.out.println("LG TV Sound Down");
+		
+	}
+	
+	
+}

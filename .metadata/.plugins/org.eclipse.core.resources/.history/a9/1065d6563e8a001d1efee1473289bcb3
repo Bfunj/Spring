@@ -1,0 +1,15 @@
+package kr.co.ch02;
+/*
+ * 
+ *	날짜 2023.01.02
+ *	이름 백현조
+ *	내용 스프일 IoC 실습하기
+ * 
+ * 
+ */
+public class IocMain {
+	
+	public static void main(String[] args) {
+		
+	}
+}
