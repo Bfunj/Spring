@@ -29,6 +29,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\java1\Desktop\Workspace\Spring\Ch02\src\main\java\kr\co\ch02\sub2\IoCTest.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -52,13 +53,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="kr.co.ch02.Ch02"/>
 		</list>
 		<list key="groupId">
-			<item value="kr.co.ch02"/>
 		</list>
 		<list key="artifactId">
-			<item value="Ch02"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -74,10 +72,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="kr.co.ch03"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Ch03"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
