@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="org.apache.catalina.core.ApplicationContext"/>
     <fullyQualifiedTypeName name="kr.co.ch02.LgTV"/>
     <fullyQualifiedTypeName name="kr.co.ch02.SamsungTV"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
@@ -20,9 +19,22 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.service.User1Service"/>
+    <fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.DAO.User1DAO"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.VO.User1VO"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.dao.User2DAO"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.vo.User2VO"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.service.User2Service"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.vo.User3VO"/>
+    <fullyQualifiedTypeName name="kr.co.ch05.dao.User3DAO"/>
 </qualifiedTypeNameHistroy>
