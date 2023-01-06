@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="ser6"/>
+		<item key="selection" value="book"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="user1"/>
 			<item value="ser5"/>
 			<item value="seq"/>
 			<item value="ser4"/>
 			<item value="ser3"/>
 			<item value="ser2"/>
 			<item value="ser1"/>
-			<item value="user1"/>
 			<item value="dataSource"/>
 			<item value="DataSource"/>
 			<item value="sqlSessionTemplate"/>
@@ -24,6 +24,7 @@
 			<item value="LG"/>
 		</list>
 		<list key="replacehistory">
+			<item value="book"/>
 			<item value="ser6"/>
 			<item value="uid"/>
 			<item value="ser5"/>

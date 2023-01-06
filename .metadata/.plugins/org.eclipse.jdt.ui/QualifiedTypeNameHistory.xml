@@ -20,15 +20,10 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="kr.co.ch05.service.User1Service"/>
     <fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="kr.co.ch05.DAO.User1DAO"/>
     <fullyQualifiedTypeName name="kr.co.ch05.VO.User1VO"/>
@@ -37,4 +32,15 @@
     <fullyQualifiedTypeName name="kr.co.ch05.service.User2Service"/>
     <fullyQualifiedTypeName name="kr.co.ch05.vo.User3VO"/>
     <fullyQualifiedTypeName name="kr.co.ch05.dao.User3DAO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.dao.BookDAO"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.service.BookService"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.vo.BookVO"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.dao.CustomerDAO"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.service.CustomerService"/>
+    <fullyQualifiedTypeName name="kr.co.bookstore.vo.CustomerVO"/>
 </qualifiedTypeNameHistroy>
